@@ -23,7 +23,6 @@ for y in range(3):
 print(mtx2[x][y], end=" ")
 print()
 print()
-
 if opr == "+":
 for x in range(3):
 for y in range(3):
